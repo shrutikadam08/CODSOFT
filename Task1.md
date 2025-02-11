@@ -14,24 +14,24 @@ The dataset consists of real or synthetic credit card transactions, typically in
 🔹 Matplotlib & Seaborn (Data Visualization)
 🔹 Scikit-Learn (Machine Learning Models)
 
-🛠# Implementation Steps
-1️⃣ Data Preprocessing
+# Implementation Steps
+1️⃣ Data Preprocessing: 
 Handling missing values, scaling, and encoding categorical data.
 Addressing class imbalance using SMOTE (Synthetic Minority Over-sampling Technique).
 
-2️⃣ Exploratory Data Analysis (EDA)
+2️⃣ Exploratory Data Analysis (EDA):
 Understanding fraud patterns using graphs & correlation heatmaps.
 
-3️⃣ Model Selection & Training
+3️⃣ Model Selection & Training:
 Implementing and comparing:
    ✅ Logistic Regression
    ✅ Decision Trees
    ✅ Random Forest
    
-4️⃣ Model Evaluation
+4️⃣ Model Evaluation:
 Using Accuracy, Precision, Recall, F1-Score, and ROC-AUC to measure performance.
 
-5️⃣ Prediction & Fraud Detection
+5️⃣ Prediction & Fraud Detection:
 Deploying the model to classify transactions.
 
  # Results & Findings
