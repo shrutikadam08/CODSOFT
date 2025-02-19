@@ -1,4 +1,4 @@
-## SMS Spam Classification
+## SMS Spam Detection
 
 # Overview
 This project implements an SMS spam classification model using three different machine learning algorithms:
